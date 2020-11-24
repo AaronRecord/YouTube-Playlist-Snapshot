@@ -2,7 +2,7 @@
  Create snapshots of your youtube playlists to easily recover deleted videos
  
  ## How to use:
-To take a snapshot run `take_snapshot.py` and enter the id of your playlist and your api key  
+To take a snapshot of one of your playlists, run `take_snapshot.py` and enter the playlist id of and your YouTube api key  
 (you can get one for free at https://console.developers.google.com/)  
   
 To compare 2 snapshots, run `compare_snapshots.py` and enter the file names of your 2 snapshots  
